@@ -1,6 +1,6 @@
 # sell
 
-> sell app
+> 慕课网，黄秩老师的高仿饿了么sell app
 
 ## Build Setup
 
